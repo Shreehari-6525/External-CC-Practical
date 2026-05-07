@@ -7,4 +7,4 @@ def Sort_data(arr):
 
 if __name__ == "__main__":
     arr = [23,4,3,32,1,25,78,46]
-    sort_data(arr)
+    Sort_data(arr)
